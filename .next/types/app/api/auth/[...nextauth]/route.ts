@@ -1,4 +1,4 @@
-// File: C:\Nambi\4work\React\Login-Dashboard-V1\createxyz-project\src\app\api\auth\[...nextauth]\route.js
+// File: C:\CopperHawk\Nambi\Login-Dashboard-V1\Login-Dashboard-V1\createxyz-project\src\app\api\auth\[...nextauth]\route.js
 import * as entry from '../../../../../../src/app/api/auth/[...nextauth]/route.js'
 import type { NextRequest } from 'next/server.js'
 

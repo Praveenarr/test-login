@@ -1,4 +1,4 @@
-// File: C:\Nambi\4work\React\Login-Dashboard-V1\createxyz-project\src\app\layout.js
+// File: C:\CopperHawk\Nambi\Login-Dashboard-V1\Login-Dashboard-V1\createxyz-project\src\app\layout.js
 import * as entry from '../../../src/app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
